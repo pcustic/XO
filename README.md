@@ -1,2 +1,3 @@
 # XO
-TicTacToe game
+
+Implementation of TicTacToe game made in PHP
