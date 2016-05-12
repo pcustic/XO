@@ -1,0 +1,40 @@
+form{
+	display: inline-block;
+}
+
+#unos{
+	text-align: center;
+}
+
+/*h1,p{
+	text-align: center;
+}*/
+
+form{
+	text-align: center;
+}
+
+.greska{
+	color: red;
+}
+
+.polje{
+	width: 5em;
+	height: 5em;
+}
+
+.win{
+	color:green;
+}
+
+div{
+	margin: 0 auto;
+}
+
+body{
+	text-align: center;
+}
+
+.pob{
+	background-color: pink;
+}
